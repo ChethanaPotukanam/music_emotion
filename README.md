@@ -21,22 +21,24 @@ The model is trained using the **Facial Expression Recognition Challenge** datas
 
 ## How to Run the Project  
 
- **Clone the repository:**  
-   ```bash
-   git clone <repo-link>
-   cd music_emotion
+## Clone the Repository  
+```bash
+git clone <repo-link>
+cd music_emotion
+```
 
-   ## Train the Model  
-    ```bash
-    python train.py
-
-   ## Run Emotion Detection & Music Mapping  
+## Train the model
+```bash
+python train.py
+```
+## Run Emotion Detection and Music Mapping
 ```bash
 python test.py
- ## Future Improvements  
-- Enhancing model accuracy through better data augmentation and preprocessing.  
-- Trying out different deep learning architectures for emotion recognition.  
-- Expanding the song recommendation system with a larger music database.  
-- Implementing real-time emotion detection with live webcam input.  
+```
 
-This project is a step towards integrating **AI-driven emotion detection with personalized music recommendations**, making interactions more engaging. 🚀🎶  
+## Future Improvements
+- Enhancing model accuracy through better data augmentation and preprocessing.
+- Trying out different deep learning architectures for emotion recognition.
+- Expanding the song recommendation system with a larger music database.
+- Implementing real-time emotion detection with live webcam input.
+This project is a step towards integrating AI-driven emotion detection with personalized music recommendations, making interactions more engaging. 🚀🎶
