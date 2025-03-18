@@ -41,4 +41,5 @@ python test.py
 - Trying out different deep learning architectures for emotion recognition.
 - Expanding the song recommendation system with a larger music database.
 - Implementing real-time emotion detection with live webcam input.
+
 This project is a step towards integrating AI-driven emotion detection with personalized music recommendations, making interactions more engaging. 🚀🎶
